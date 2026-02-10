@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SulaimanTajuddin
-- 👀 I’m interested in Python, SQL, Machine Learning, Deep Learning, AI, Data Visualization.
-- 🌱 I’m currently learning Python, SQL, Data Visualization using Power BI
+- 👀 I’m interested in Data Science & Analytics, Causal ML, Decision Intelligence, Edge ML, XAI & Transparaent AI, and making bussiness decission using these knowledges
   
 
