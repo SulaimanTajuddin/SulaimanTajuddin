@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several data science projects<br>🌱 I’m currently learning Data Science, Machine Learning, CausalML, AI<br>
+🔭 I’m a versatile engineer with the mixed of mechanical, electrical, control & instrumentation engineering<br>🌱 Avid researcher in Data Science, Machine Learning, Deep Learning, and AI<br>
 
 
 ## 🌐 Socials:
