@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a versatile engineer with the mixed of mechanical, electrical, control & instrumentation engineering<br>🌱 Avid researcher in Data Science, Machine Learning, Deep Learning, and AI<br> ✅ During my free time, I enjoy running, reading books, data analytics, and playing games
+🔭 I’m a versatile engineer with the mixed of mechanical, electrical, control & instrumentation engineering<br>🌱 Avid researcher in Data Science, Machine Learning, Deep Learning, AI, Economics & Geopolitics<br> ✅ During my free time, I enjoy running, reading books, data analytics, and playing games
 
 
 ## 🌐 Socials:
